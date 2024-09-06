@@ -15,5 +15,5 @@ Information for Ben Eater's "Build an 8-bit computer from scratch" project
 
 ### Ben Eater's Affiliate Links
 
-[Amazon](https://amzn.to/2OdPser)
+[Amazon](https://amzn.to/2OdPser)  
 [Jameco](http://bit.ly/2x7PXQR)
