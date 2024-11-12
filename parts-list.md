@@ -12,12 +12,22 @@ Dave Jones' EEVblog has some videos about component selection. I need to find th
 ## Clock module
 
 Parts Needed:
-- 3	LM-555 Timer ICs
+- 3	xx555 Timer ICs
+  - NE555P will work fine.
 - 1	74LS04 Hex inverter
 - 1	74LS08 Quad 2-input AND gate
 - 1	74LS32 Quad 2-input OR gate
 - 1	Momentary tact switch
+  - Finding these with leads long enough for a breadboard are tough.
+  - You need more than a through-hole model, something marked as wire-wrap may be more appropriate
+  - I found the Omron brand, B3F series, with tape-reel leads that are extra long: https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-6000/31447
 - 1	SPST slide switch
+  - The ones that came with the kit are too big to fit in the breadboard.
+  - There are so many options available online, but I bought a bunch with the leads specifically marked 0.1" apart: https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/450301014042/5209104
+- 1 1MOhm, potentiometer
+  - Again, these are tough to find in a through hole model with leads long enough for a breadboard.
+  - Something like this might work: https://www.digikey.com/en/products/detail/bourns-inc/3352T-1-105LF/1088343
+  - 
 
 ## Registers and ALU
 
